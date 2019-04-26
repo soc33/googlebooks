@@ -1,0 +1,13 @@
+.save-book {
+    background-color: rgb(235, 238, 34);
+    margin: 2px;
+    color: black;
+    border-color: black;
+}
+
+.delete-book {
+    background-color: rgb(243, 58, 52);
+    margin: 2px;
+    color: black;
+    border-color: black;
+}

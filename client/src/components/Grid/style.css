@@ -1,0 +1,15 @@
+.search-form {
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card {
+    border: 2px solid blue;
+}
+
+@media (max-width: 550px) {
+    .search-form {
+        width: 100%;
+    }
+}
